@@ -59,7 +59,7 @@ selectInput("GENRE", h3("Genre Filter :"),
             selected = "Action")
 ```
 
-Column
+Row
 ---
 ### Total Global Sales Line Plot by Genre
 
