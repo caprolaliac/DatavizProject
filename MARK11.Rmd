@@ -34,7 +34,6 @@ selectInput("PLATFORMVIEW", h3("Platform Filter :"),
             selected = "NES")
 ```
 Introduction.
-Introduction.
 
 Video Games has slowly risen to the title of one of the main branches of the entertainment industry.
 
